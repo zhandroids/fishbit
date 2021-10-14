@@ -1,5 +1,5 @@
 
-//% color="#FF9300" weight=10 icon="\uf578" 
+//% color="#FF9300" weight=10 icon="\uf0fb" block="fishbit"
 namespace fishbit{
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
