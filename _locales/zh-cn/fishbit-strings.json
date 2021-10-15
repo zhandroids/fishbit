@@ -1,0 +1,10 @@
+{
+  "fishbit.MotorRunDelay|block": "电机|%index|速度 %speed|延时 %delay|s",
+  "fishbit.MotorRunDual|block": "电机|%motor1|速度 %speed1|%motor2|速度 %speed2",
+  "fishbit.MotorRun|block": "电机|%index|速度 %speed",
+  "fishbit.MotorStopAll|block": "停止所有电机",
+  "fishbit.MotorStop|block": "电机 停止|%index|",
+  "fishbit.Servo|block": "舵机|%index|角度 %degree",
+  "fishbit|block": "飞鱼扩展板",
+  "{id:category}Fishbit": "飞鱼扩展板"
+}

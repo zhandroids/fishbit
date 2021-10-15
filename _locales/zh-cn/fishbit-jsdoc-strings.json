@@ -1,0 +1,14 @@
+{
+  "fishbit.MotorRunDelay": "Execute single motors with delay",
+  "fishbit.MotorRunDelay|param|delay": "seconde delay to stop; eg: 1",
+  "fishbit.MotorRunDelay|param|index": "Motor Index; eg: M4, M3, M2, M1",
+  "fishbit.MotorRunDelay|param|speed": "[-255-255] speed of motor; eg: 150, -150",
+  "fishbit.MotorRunDual": "Execute two motors at the same time",
+  "fishbit.MotorRunDual|param|motor1": "First Motor; eg: M4, M3",
+  "fishbit.MotorRunDual|param|motor2": "Second Motor; eg: M2, M1",
+  "fishbit.MotorRunDual|param|speed1": "[-255-255] speed of motor; eg: 150, -150",
+  "fishbit.MotorRunDual|param|speed2": "[-255-255] speed of motor; eg: 150, -150",
+  "fishbit.Servo": "Servo Execute",
+  "fishbit.Servo|param|degree": "[0-180] degree of servo; eg: 0, 90, 180",
+  "fishbit.Servo|param|index": "Servo Channel; eg: S1"
+}
