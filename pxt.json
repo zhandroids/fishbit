@@ -1,6 +1,6 @@
 {
     "name": "fishbit",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "飞鱼扩展板",
     "dependencies": {
         "core": "*",
