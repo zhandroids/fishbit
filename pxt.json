@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
@@ -15,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.1.4",
+        "target": "4.0.11",
         "targetId": "microbit"
     },
     "supportedTargets": [
